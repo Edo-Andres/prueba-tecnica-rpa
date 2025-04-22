@@ -1,0 +1,8 @@
+selenium
+undetected-chromedriver
+python-dotenv
+pymongo
+pandas
+openpyxl
+pyvirtualdisplay
+setuptools 

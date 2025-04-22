@@ -1,0 +1,11 @@
+# ginorar __pycache__ y .pyc e __init__.py
+__pycache__/
+*.pyc
+__init__.py
+
+# ignorar archivos de entorno
+.env
+env_rpa/
+
+downloads/
+
