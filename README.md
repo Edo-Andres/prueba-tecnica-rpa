@@ -33,7 +33,7 @@ Este proyecto implementa un scraper en Python utilizando Selenium y Undetected-C
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone <url-del-repositorio>
+    git clone https://github.com/Edo-Andres/prueba-tecnica-rpa
     cd prueba-tecnica-rpa
     ```
 
